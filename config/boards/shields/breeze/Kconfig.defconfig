@@ -2,7 +2,7 @@
 if SHIELD_BREEZE_LEFT
 
 config ZMK_KEYBOARD_NAME
-	default "Breeze"
+	default "Breeze"so l
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
 	default y
